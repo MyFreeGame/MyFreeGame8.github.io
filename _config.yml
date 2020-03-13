@@ -26,7 +26,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  All for players
+  FreeRacing Games is the creator of Racing In Car; a highly detailed. best-in-class Racing game for fans of Racing in car .
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: wangxiaohua12580@gmail.com # email for form submission
