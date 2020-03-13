@@ -1,6 +1,5 @@
 # SITE CONFIGURATION
 title: MyFreeGame # your site title
-SEOTitle: FreeGames | MyFreeGame
 author: Boss666 # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
@@ -25,6 +24,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
+  - {name: 'Readme', link: '/README'}
 
 tagline: >
   FreeRacing Games is the creator of Racing In Car; a highly detailed. best-in-class Racing game for fans of Racing in car .
