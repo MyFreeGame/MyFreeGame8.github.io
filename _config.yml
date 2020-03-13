@@ -24,7 +24,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
-  - {name: 'Readme', link: '/contact2'}
+  - {name: 'Readme', link: '/contact2/'}
 
 tagline: >
   FreeRacing Games is the creator of Racing In Car; a highly detailed. best-in-class Racing game for fans of Racing in car .
