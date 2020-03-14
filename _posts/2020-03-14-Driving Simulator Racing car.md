@@ -5,7 +5,7 @@ featured-img: game
 categories: [Game, Mobile]
 ---
 
-
+<h1 align = "center">这是居中标题</h1>
  
 #  Driving Simulator Racing car
 
