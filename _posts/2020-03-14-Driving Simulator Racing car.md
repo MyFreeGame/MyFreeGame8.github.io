@@ -1,41 +1,24 @@
-﻿---
+---
 layout: post
 title: Driving Simulator Racing car
 featured-img: game
 categories: [Game, Mobile]
 ---
 
-
-
- 
-<center>  #  Driving Simulator Racing car  </center> 
+#  Driving Simulator Racing car 
  
  ![GitHub set up](https://i.loli.net/2020/03/14/Z9tQFlHVoATW23q.png "icon")  
  
 *<font face="黑体" color=grey size=3>Free Racing Game</font>*
+
  [![alt text](https://i.loli.net/2020/03/14/XDOcb5CoAxEw7sp.png)](https://play.google.com/store/apps/details?id=com.HighwayRacingInCar.FreeRacingGame)
+ 
 [![alt text](https://i.loli.net/2020/03/14/pPyVAvjr7L241bT.png)](https://play.google.com/store/apps/details?id=com.HighwayRacingInCar.FreeRacingGame)
- 
- 
-
- 
- ---
- 
- 
- 
- 
 ##   **ABOUT THE GAME:**
-
-
 <center>
-
- 
- *<font face="黑体" color=grey size=3>Racing car game! Attractive and satisfying traffic escape experience!</font>*
- 
+*<font face="黑体" color=grey size=3>Racing car game! Attractive and satisfying traffic escape experience!</font>*
 </center>
-
 <br/>
-
  Rich road environment. Start the game, through endless busy roads and highways, be careful! High-speed cars are everywhere on roads and highways. They can interfere with you! Only the best racing drivers can avoid all the cars on the road perfectly.Make sure your skills meet all the challenges. On asphalt pavement, endless traffic racing cars. Each model will be a new experience. Every place has its own atmosphere and feeling. Facing complex road traffic in a perfect environment, become a real racing driver!High performance racing car. Go to the garage and choose a high-performance racing car. Adjust the vehicle and customize its appearance. Choose your favorite body color. Give your car your own style. Making cars by adjusting their appearance.
  Avoid traffic. Play endless games on the road to release yourself. Break the rules, challenge the speed and win.
  Rich road environment. Traffic highways set new standards for traffic racing. Enjoy impressive graphics and experience high-speed racing! This will be an interesting and compelling game we promise! 
