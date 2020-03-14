@@ -44,7 +44,7 @@ Free Racing Game
 
  <p align="left">
  
- ##### Racing car driving 3D function:
+ #####Racing car driving 3D function:
  
 - Lifelike game scenes
 - Show your driving skills and face challenges
@@ -63,15 +63,8 @@ Free Racing Game
 
 ##   **Screen Shots:**
 [![alt text](https://i.loli.net/2020/03/14/RhDJbUp42ixnM1s.jpg)](https://play.google.com/store/apps/details?id=com.HighwayRacingInCar.FreeRacingGame)
- 
- 
-
 [![alt text](https://i.loli.net/2020/03/14/6qzdy3GZihmaP7H.jpg)](https://play.google.com/store/apps/details?id=com.HighwayRacingInCar.FreeRacingGame)
-
-
 [![alt text](https://i.loli.net/2020/03/14/T1s5dJhAyIrV8Kp.jpg)](https://play.google.com/store/apps/details?id=com.HighwayRacingInCar.FreeRacingGame)
-
-
 [![alt text](https://i.loli.net/2020/03/14/MsmRI4TSpBhqUuy.jpg)](https://play.google.com/store/apps/details?id=com.HighwayRacingInCar.FreeRacingGame)
 
 
