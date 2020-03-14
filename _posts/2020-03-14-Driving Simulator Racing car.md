@@ -6,29 +6,29 @@ categories: [Game, Mobile]
 ---
 
 
- <center>
  
-#  Driving Simulator Racing car
-<br/>
+ 
+# Driving Simulator Racing car
+
+ 
  
   ![GitHub set up](https://i.loli.net/2020/03/14/Z9tQFlHVoATW23q.png "icon")  
  
  
  
 
- <br/>
+ 
  
    *<font face="黑体" color=grey size=3>Free Racing Game</font>*
  
  
- <br/>
  
- [![alt text](https://i.loli.net/2020/03/14/XDOcb5CoAxEw7sp.png)](https://play.google.com/store/apps/details?id=com.HighwayRacingInCar.FreeRacingGame)
+  [![alt text](https://i.loli.net/2020/03/14/XDOcb5CoAxEw7sp.png)](https://play.google.com/store/apps/details?id=com.HighwayRacingInCar.FreeRacingGame)
   [![alt text](https://i.loli.net/2020/03/14/pPyVAvjr7L241bT.png)](https://play.google.com/store/apps/details?id=com.HighwayRacingInCar.FreeRacingGame)
  
- </center> 
  
- <br/>
+ 
+ 
  ---
  
  
