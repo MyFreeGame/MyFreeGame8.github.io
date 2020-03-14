@@ -7,8 +7,9 @@ categories: [Game, Mobile]
 
 <h1 align = "center">Driving Simulator Racing car</h1>
 
-
-![alt text](https://i.loli.net/2020/03/14/Z9tQFlHVoATW23q.png "icon")  
+<div align=center>
+<img src="https://i.loli.net/2020/03/14/Z9tQFlHVoATW23q.png" width = 80%/>
+</div>
 
 <h5 align = "center">Free Racing Game</h5>
 
