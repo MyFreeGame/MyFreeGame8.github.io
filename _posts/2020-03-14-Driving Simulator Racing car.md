@@ -1,6 +1,6 @@
----
+﻿ ---
 layout: post
-title: Racing car game! Attractive and satisfying traffic escape experience!
+title: Driving Simulator Racing car
 featured-img: game
 categories: [Game, Mobile]
 ---
