@@ -11,7 +11,7 @@ categories: [Game, Mobile]
 
 ![alt text](https://i.loli.net/2020/03/14/Z9tQFlHVoATW23q.png "icon")  
  
- *<font face="黑体" color=grey size=3>Free Racing Game</font>*
+ *<font face="microsoft yahei" color=grey size=3>Free Racing Game</font>*
  
  
 
