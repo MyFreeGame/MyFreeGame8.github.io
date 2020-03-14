@@ -10,8 +10,9 @@ categories: [Game, Mobile]
 #  Driving Simulator Racing car
 
 ![alt text](https://i.loli.net/2020/03/14/Z9tQFlHVoATW23q.png "icon")  
- 
- *<font face="microsoft yahei" color=grey size=3>Free Racing Game</font>*
+
+ *<font color=grey size=3>Free Racing Game</font>*
+
  
  
 
