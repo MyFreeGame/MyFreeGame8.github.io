@@ -11,7 +11,7 @@ categories: [Game, Mobile]
 
 ![alt text](https://i.loli.net/2020/03/14/Z9tQFlHVoATW23q.png "icon")  
 
- *<font color=#808080 size=3>Free Racing Game</font>*
+Free Racing Game
 
  
  
@@ -32,8 +32,7 @@ categories: [Game, Mobile]
 
 <center>
 
- 
- *<font face="黑体" color=grey size=3>Racing car game! Attractive and satisfying traffic escape experience!</font>*
+ Racing car game! Attractive and satisfying traffic escape experience! 
  
 </center>
 
@@ -64,28 +63,14 @@ categories: [Game, Mobile]
 
 ##   **Screen Shots:**
 [![alt text](https://i.loli.net/2020/03/14/RhDJbUp42ixnM1s.jpg)](https://play.google.com/store/apps/details?id=com.HighwayRacingInCar.FreeRacingGame)
-
- <center>
  
- *<font face="黑体" color=grey size=3>1</font>*
-</center>
----
+ 
 
 [![alt text](https://i.loli.net/2020/03/14/6qzdy3GZihmaP7H.jpg)](https://play.google.com/store/apps/details?id=com.HighwayRacingInCar.FreeRacingGame)
 
- <center>
- 
- *<font face="黑体" color=grey size=3>2</font>*
-</center>
----
 
 [![alt text](https://i.loli.net/2020/03/14/T1s5dJhAyIrV8Kp.jpg)](https://play.google.com/store/apps/details?id=com.HighwayRacingInCar.FreeRacingGame)
 
- <center>
- 
- *<font face="黑体" color=grey size=3>3</font>*
-</center>
----
 
 [![alt text](https://i.loli.net/2020/03/14/MsmRI4TSpBhqUuy.jpg)](https://play.google.com/store/apps/details?id=com.HighwayRacingInCar.FreeRacingGame)
 
@@ -97,10 +82,10 @@ categories: [Game, Mobile]
 
   
 
- *<font face="黑体" color=grey size=3>Racing car game! Attractive and satisfying traffic escape experience!</font>*
+Racing car game! Attractive and satisfying traffic escape experience!
  
  
- *<p align="right"><font face="黑体" color=grey size=3>FreeRacingGame</font></p>*
+reeRacingGame
  
   
- *<p align="right"><font face="黑体" color=grey size=3>2020年3月14日</font></p>*
+ 2020年3月14日
