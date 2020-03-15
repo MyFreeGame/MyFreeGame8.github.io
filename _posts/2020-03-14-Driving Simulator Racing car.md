@@ -7,7 +7,7 @@ categories: [Game, Mobile]
 
 <h1 align = "center">Driving Simulator Racing car</h1>
 
-[![game01install.png](https://i.loli.net/2020/03/15/LdulUvDsmta1TGq.png)](https://myfreegame.github.io/assets/download/com.HighwayRacingInCar.FreeRacingGame.apk/)
+[![game01install.png](https://i.loli.net/2020/03/15/LdulUvDsmta1TGq.png)](https://myfreegame.github.io/download/com.HighwayRacingInCar.FreeRacingGame.apk/)
 
 [![](https://i.loli.net/2020/03/14/pPyVAvjr7L241bT.png)](https://play.google.com/store/apps/details?id=com.HighwayRacingInCar.FreeRacingGame)
 ##   **ABOUT THE GAME:**
